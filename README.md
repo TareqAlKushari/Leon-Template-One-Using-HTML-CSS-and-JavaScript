@@ -1,4 +1,4 @@
-# Leon-Template-One-Using-HTML-CSS-and-JavaScript
-Super Creative and Minimal Agency Web Template. Using HTML, CSS, and JavaScript
+# Leon Template One using HTML and CSS
+Super Creative and Minimal Agency Web Template. Using HTML and CSS.
 
 ![](/Screenshot.png)
