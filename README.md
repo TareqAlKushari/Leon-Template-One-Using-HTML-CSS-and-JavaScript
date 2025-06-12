@@ -15,7 +15,7 @@
 
 ![](/Screenshot.png)
 
-*(Add link to live demo or screenshots here if available)*
+https://tareqalkushari.github.io/Leon-Template-One-Using-HTML-CSS-and-JavaScript/
 
 ## Getting Started
 
